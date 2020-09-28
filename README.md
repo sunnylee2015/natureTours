@@ -9,4 +9,4 @@ HTML & CSS
 
 
 # Screenshot
-![Image](images/naturewalk.png?raw=true)
+![Image](naturewalkgif.gif?raw=true)
